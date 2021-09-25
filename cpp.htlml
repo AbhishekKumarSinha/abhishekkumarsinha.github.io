@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Abhishek Sinha</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="assets/css/index.css"/>
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+</head>
+
+<body>
+
+<div class="header">
+  <h1>Abhishek Sinha</h1>
+  <p>A website about me.</p>
+</div>
+
+<div class="navbar">
+  <a href="#">Home</a>
+  <a href="#">C++</a>
+  <a href="#">Advance C++</a>
+  <a href="#">Python</a>
+  <a href="#" class="right">CV</a>
+</div>
+
+<div class="row">
+  <div class="side">
+    <h3>About Me</h3>
+    <div> 
+      <img src="assets/img/dp.jpg" alt="Abhishek Sinha" style="border-radius: 50%; width: 100px; height: 100px;">
+    </div>
+
+    <p>I'm Abhishek Sinha  &#129333; <br> B.Tech. in Computer Science & Engineering. &#128526;</p>
+    <p>Current Company: NEC Corporation India Pvt. Ltd.</p>
+    <p>Current Job Role: Techical Lead</p>
+
+    <p>My Interests are :
+      <br> 
+      <br> &#128522; C++
+      <br> &#128522; Python
+      <br> &#128522; Data Structures
+      <br> &#128522; Algorithms
+      <br> &#128522; Problem Solving
+    </p>
+    
+    <br>
+    <a href="https://github.com/AbhishekKumarSinha" style="text-decoration:none;">
+      <i class="fab fa-github" style='font-size:36px;color:black'></i>
+    </a>
+    <a href = "https://www.linkedin.com/in/abhisheksinha11/" style="text-decoration:none;">
+      <i class="fab fa-linkedin" style='font-size:36px;color:#4c6ef5'></i>
+    </a>
+    <a href = "https://www.hackerrank.com/abhishek_sinha" style="text-decoration:none;">
+      <i class='fab fa-hackerrank' style='font-size:36px;color:#29bb5b'></i>
+    </a>
+    
+  </div>
+  <div class="main">
+    <h2>C++ Programming Language</h2>
+    <h5>Brief tutorial about C++ Programming</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>Some text..</p>
+    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <br>
+    
+    </div>
+</div>
+
+<div class="footer">
+  <h5>All Rights Reserved by Abhishek Sinha</h5>
+</div>
+
+</body>
+</html>
